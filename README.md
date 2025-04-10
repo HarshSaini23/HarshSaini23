@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harsh Saini</h1>
-<h3 align="center">Passionate AI/ML enthusiast eager to apply expertise in driving impactful projects.</h3>
+<h3 align="center">Passionate Analytics enthusiast eager to apply expertise in driving impactful projects.</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif">
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Data Driven Skills**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
